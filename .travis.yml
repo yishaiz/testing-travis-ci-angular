@@ -30,7 +30,7 @@ before_script:
 - npm install -g @angular/cli
 
 script:
-- ng lint --typeCheck
+#- ng lint --typeCheck
 - ng test -sr
 - ng build --prod
 
