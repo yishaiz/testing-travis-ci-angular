@@ -35,7 +35,7 @@ script:
 
 - ng test --watch=false
 
-#remove build to reduce time. 
+#remove build to reduce time.
 #- ng build --prod
 
 after_success:
