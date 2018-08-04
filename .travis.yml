@@ -30,7 +30,7 @@ before_script:
 - npm install -g @angular/cli
 
 script:
-- ng lint 
+- ng lint
 #- ng lint --typeCheck
 #- ng test #-sr
 
@@ -45,3 +45,5 @@ notifications:
   email:
     on_failure: change
     on_success: change
+
+

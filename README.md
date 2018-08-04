@@ -1,3 +1,6 @@
+#add badge
+[![Build Status](https://travis-ci.org/yishaiz/testing-travis-ci-angular.svg?branch=master)](https://travis-ci.org/yishaiz/testing-travis-ci-angular)
+
 # TestingTravisCiAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
